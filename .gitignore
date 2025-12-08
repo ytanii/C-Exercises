@@ -53,6 +53,7 @@ dkms.conf
 cmake-build-debug/
 CMakeLists.txt
 .idea/
+.vscode/
 
 # debug information files
 *.dwo
